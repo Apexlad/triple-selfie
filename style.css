@@ -1,0 +1,67 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+h1
+{
+    color:#5E00FF;
+    font-size: 55px;
+}
+
+h4
+{
+    color: #7E33FF;
+    font-size: 30px;
+}
+
+h3{
+    color:#4301B1;
+    font: size 20px;
+}
+
+body{
+    color:#FF5E00;
+    background-color: #00FF5E;
+    font-size: 18px;
+}
+
+.Row {
+    display: table;
+    width: 100%; 
+    table-layout: fixed; 
+    border-spacing: 10px; 
+}
+.Column {
+    display: table-cell;
+    
+   
+    
+}
+
+.Column img {
+    transition: 1s ease;
+    }
+    
+    .Column img:hover {
+    border-radius:50%;
+    transition: 1s ease;
+    }
+#result_row{
+    margin: 2%;
+}
